@@ -19,8 +19,8 @@ Configurable confidence threshold: The confidence threshold for object detection
 
 ## Technologies Used
 
-    OpenCV: An open-source computer vision library that provides tools for image and video analysis, including object detection.
+OpenCV: An open-source computer vision library that provides tools for image and video analysis, including object detection.
 
-    MobileNet SSD: A deep neural network architecture optimized for mobile devices that can efficiently perform object detection.
+MobileNet SSD: A deep neural network architecture optimized for mobile devices that can efficiently perform object detection.
 
-    Python: The programming language used for building and running the project.
+Python: The programming language used for building and running the project.
